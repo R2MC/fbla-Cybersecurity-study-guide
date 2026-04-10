@@ -1,0 +1,599 @@
+FBLA 2014 — Cybersecurity
+1) What type of attack uses multiple computers to prevent legitimate users from accessing resources over a network?
+password sniffing
+IP spoofing
+buffer overflow
+Denial of Service (DOS)
+
+2) What are secret keys used in encryption that exhibit regularities in encryption, or even a poor level of encryption?
+Spoofed Keys
+Weak Keys
+Complex Keys
+Unencrypted Keys
+
+3) What are three methods antivirus software use to identify malware?
+Quarantine-Based Detection, File Emulation, and Signature-Based Detection
+Signature-Based Detection, Heuristic-Based Detection, and File Emulation
+Signature-Based Detection, Kernel-Based Detection, and File Emulation
+Kernel-Based Detection, Heuristic-Based Detection, and File Emulation
+
+4) What is a computer that can be controlled remotely over the Internet to perform malicious tasks?
+spyware
+rootkit
+Trojan horse
+zombie
+
+5) Of the following, this is the best method for protecting your personal privacy online:
+use anti-virus software
+restrict access to your personal information to only people you know.
+don’t talk to strangers online
+avoid all social networking sites
+
+6) What are three techniques that individuals can use to restrict the availability of their e-mail addresses, reducing or preventing their attractiveness to spam?
+Greeting Delay, From Field Control, and Address Munging
+Ham Passwords, Disable HTML, and Greeting Delay
+Ham Passwords, Address Munging, and Disable HTML
+Address Munging, Disable HTML, and From Field Control
+
+7) What type of attack attempts to circumvent authentication mechanisms by recording authentication messages from a legitimate user and reissuing those messages in order to impersonate the user and gain access to systems?
+Man-in-the-Middle Attack
+MAC Spoofing Attack
+Replay Attack
+ARP Spoofing Attack
+
+8) This type of malicious email attempts to get the user to click on a link to a fraudulent Web site in order to steal the user’s identity:
+spam
+phishing
+pharming
+smishing
+
+9) What is a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard computer security practices?
+Computer Incident
+Computer Violation
+Improper Usage
+Unauthorized Access
+
+10) Your computer should automatically do this in order to protect itself from malicious software:
+upload firewall rules from your security provider
+download and install updates
+use a black list for known spammers
+lock the screen
+
+11) What is a collection of updates, fixes, or enhancements to a software program delivered in the form of a single installable bundle because installing is easier and less error-prone?
+Service Security
+Service Update
+Service Kit
+Service Pack
+
+12) Which computer tool is used to read and write data to ports over a network?
+hping
+netcat
+ipconfig
+whois
+
+13) What type of malware automatically renders unwanted advertisements whose objective is to generate revenue for its author, but could contain spyware such as keyloggers and other privacy-invasive software.
+Shareware
+Adware
+Madware
+GreyNet
+
+14) Spam affects which one of the following sets of media?
+E-mail, Newsgroups, and Blogs
+E-mail, Instant Messages, and Blogs
+E-mail, Online Games, and Blogs
+E-mail, Internet, and Instant Messages
+
+15) There are many ways to prevent the spread of viruses. From the list below, which one is the most effective?
+deinstall e-mail programs
+run programs as an administrator
+scan all e-mail attachments
+install and use a firewall
+
+16) What contains the language that has been approved by an organization's legal department?
+Login Banner
+Config File
+User Policy
+User Poster
+
+17) Internet browsers use this to keep track of the state of a user's shopping cart in an online store?
+Browser History
+Cookie
+Cache
+Temporary Internet File
+
+18) A demilitarized zone (DMZ) is referring to a portion of the network that is not fully trusted. What type of network zones do administrators use when creating a DMZ?
+Fully-Protected
+Securely Protected
+Semi-Protected
+Decentralized
+
+19) Which device can you install to limit hostile sniffing on a LAN (Local Area Network)?
+Modem
+Ethernet Hub
+Firewall
+Ethernet Switch
+
+20) Your organization uses NT file system encryption to enhance security on your network of six servers. Five of the six servers have compressed drives and a new administrator says that it would not be a good idea to implement an encryption policy at this time. Why is the administrator correct?
+Encryption would add too much overhead to the servers.
+Encryption and compression cannot be used at the same time.
+Encryption will not help secure your network.
+Encryption will increase the performance of the servers.
+
+21) Honeypots are used to:
+catch criminals in the act of malicious attacks
+detect malicious network traffic
+attract attackers by appearing like a vulnerable system
+filter network usage
+
+22) This is a method for dividing a network address space into smaller, separate networks and can be used to protect sensitive parts of an organization’s network?
+intrusion detection systems
+firewalling
+network address translation
+subnetting
+
+23) In this access control model, permissions to access an object are assigned by the object’s owner using access control lists.
+discretionary access control (DAC)
+functional access control (FAC)
+role-based access control (RBAC)
+mandatory access control (DAC)
+
+24) What has replaced Secure Sockets Layer (SSL)?
+Wireless Protected Access, version 2 (WPA2)
+IPsec
+Transport Layer Security (TLS)
+HTTPS
+
+25) Egress filtering is used to detect spam that is:
+sent from known spam sites that are on the black list
+leaving a company’s network
+known to contain phishing attempts
+entering a company’s network
+
+26) This type of firewall hides internal IPv4 addresses from external networks?
+Web Application Firewall (WAF)
+bastion host
+Network Address Translation (NAT)
+proxy server
+
+27) What comprises individuals from the computing, networking, and telecommunications industries and is responsible for developing the Internet's technical foundations?
+Computer Security Institute
+Internet Engineering Task Force
+Information System Security Association
+Information Security Operations Center
+
+28) Ethereal is an example of a:
+Content Filter
+Packet Sniffer
+Ethernet Analyzer
+Web Scanner
+
+29) What process do users initiate when making a secure connection to internal resources after establishing an Internet connection?
+tunneling
+channeling
+network forwarding
+private networking
+
+30) Which security protocol provides privacy, data integrity, and authentication for hand devices in a wireless network environment?
+WEP (Wired Equivalent Privacy)
+WSET (Wireless Secure Electronic Transaction)
+WTLS (Wireless Transport Layer Security)
+WAP (Wireless Application Protocol)
+
+31) At what stage of the security system development life cycle do organization's purchase or build security solution?
+Maintenance Phase
+Development Phase
+Physical Design Phase
+Implementation Phase
+
+32) Issuing the nslookup command along with a domain name displays what?
+the owner of the Web site
+the route information from your computer to the domain
+the corresponding IP address
+the network card’s MAC address
+
+33) The users of your network cannot retrieve e-mail messages from the POP3 server. What is the first thing that you should check?
+that port 110 is open in the firewall
+that port 25 is open in the firewall
+that the SMTP server is running
+that port 23 is open in the firewall
+
+34) What is the best way for end users to prevent spam?
+use anti-spyware software
+turn off e- mail relaying
+not publically posting their e-mail address on social network sites
+keeping e-mail clients updated
+
+35) Which protocol would be used when receiving e-mail?
+POP and SPF
+IMAP and ODMR
+IMAP and POP
+POP and SMTP
+
+36) What type of attack uses chat and e-mail to exploit trust relationships?
+Replay Attack
+Cyber Attack
+Online attack
+Chat Attack
+
+37) Which one of the following is often the result of chain e-mails:
+spread of a virus
+phishing attacks
+excessive e-mail traffic directed at a victim
+spam
+
+38) If Exchange users configure their mailboxes to deliver to personal folders instead of the server, the administrative options will not work. What is the file extension for the personal folders?
+.eml
+.ost
+.dbx
+.pst
+
+39) HTML e-mail is common but dangerous. Why?
+HTML e-mail allows malicious code to launch from the preview pane
+HTML e-mail is preferred by spammers
+HTML e-mail does not allow the sender to confirm the e-mail was read
+HTML e-mail may not work with all clients or operating systems
+
+40) What technique did the attacker use in this scenario? A user receives an e-mail that appears to be from his/her bank. Upon further investigation of the e-mail headers, the user figured out that the e-mail is a scam.
+Spoofing
+Man-In-The-Middle
+Online Attack
+Denial of Servic
+
+41) What should you do if a user's mailbox is full and you notice an uncharacteristic amount of spam in the inbox?
+delete all the users' e-mail, including the spam
+delete the spam and enable the spam filter
+create another e-mail account for the user
+reinstall the users e-mail client
+
+42) Which one of the following is considered a type of spam that may be done unknowingly by the sender?
+reading an e-mail in HTML format
+sending e-mail to your team on a group project
+replying to the sender and blind-copying yourself
+forwarding messages to everyone in the senders address book
+
+43) This type of hacker may be ethical or unethical in his/her activities.
+alternating ethics hacker
+black-hat hacker
+grey-hat hacker
+white-hat hacker
+44) Which one of the following deals with the protection of data against unauthorized access?
+integrity
+accountability
+authentication
+confidentiality
+
+45) The group normally responsible for responding to computer intrusions is known as the?
+Security Incident Response Team (SIRT)
+Network Administration Group
+Computer Intrusion Reaction Team (CIRT)
+Chief Security Officer (CSO)
+
+46) This is the method of subjectively determining the impact and likelihood of an event that affects a project, program, or process?
+threat analysis
+quantitative risk management
+qualitative risk management
+vulnerability scanning
+
+47) What is the process of recovering passwords from data that has been stored in or transmitted by a computer system?
+Password Shadowing
+Password Cracking
+Password Reversing
+Password Distributing
+
+48) Which Linux distribution specializes in routing/firewalling and threat management?
+Ubuntu Linux
+Endian Firewall
+Red Hat Linux
+Suse Linux
+
+49) What answers the following questions: What needs to be protected? Who/What are the threats and vulnerabilities? What are the implications if they were damaged or lost? What is the value to the organization? What can be done to minimize exposure to the loss or damage?
+Detection Assessment
+Risk Assessment
+Security Assessment
+Vulnerability Assessment
+
+50) What is an open-source tool that can be used to scan a network for vulnerabilities?
+nmap
+wireshark
+Secure Baseline Analyzer
+NESSUS
+
+51) What is it called when an intrusion detection system sends alerts regarding events that really have not taken place?
+False Positives
+True Negatives
+False Negatives
+True Positives
+
+52) This field indicates the specific or type of vulnerability that creates the attack opportunity in the first place.
+Resource Vulnerability
+Process Vulnerability
+Mitigation Vulnerability
+Exploitable Vulnerability
+
+53) In a Microsoft Active Directory (AD) environment, this allows for centralized management and configuration of computer baselines.
+Group Policy Objects (GPOs)
+Configuration Management software
+Security templates
+AD Policies
+
+54) The Public Key Infrastructure (PKI) is a set of hardware, software, people, policies, and procedures needed to create, manage, store, distribute, and revoke digital certificates. The public key infrastructure is based on which encryption schemes?
+quantum
+symmetric
+elliptical curve
+asymmetric
+
+55) How does a message encrypted with the Public Key become decrypted with the receiver's appropriate Private Key?
+encrypted message contains the functions for decryption that identifies the private key.
+private key contains a special function that is used to encrypt the message and which can only be reversed by the appropriate public key
+can only be decrypted with the public key
+one-way function with back door is applied for the encryption
+
+56) Which one of the following is a decentralized trust model that establishes the connection between a public key and its owner?
+symmetric encryption
+digital certificate
+Web of trust
+public-private key pair
+
+57) The Certificate Revocation List (CRL) is defined as the following:
+database of invalidated certificates maintained by the certificate authority
+list of users who are no longer authorized for system access
+document of certificates that have not been used in over a year
+list of accounts whose passwords do not meet the corporate policy
+
+58) What are the three primary uses for digital signatures?
+Privacy, Authentication, and Interoperability
+Authentication, Privacy, and Integrity
+Efficiency, Compatibility, and Integrity
+Authentication, Integrity, and Non-Repudiation
+
+59) Which one of the following best describes the purpose of a digital certificate?
+binds a private key with a user's identity
+certifies the security of a system
+affirms the users’ or systems’ identity
+binds a public key with a user’s identity
+
+60) A user is trying to access an FTP server but gets a message saying invalid login credentials, what is the problem?
+the user has a virus
+the user has a Trojan horse
+the user has the wrong FTP address
+the user doesn't have access rights
+
+61) This access control principle means that each user should only be given the minimal amount of privileges necessary for that person to perform their job function.
+least privilege
+segregation of duties
+defense in depth
+lowest common access
+
+62) This type of password attack uses a large pre-generated data set of encrypted passwords.
+rainbow tables
+brute-force attack
+hash attack
+dictionary attack
+
+63) What is a method for verifying a person’s identity based on one or more physical or behavioral traits?
+biometrics
+token-based
+cognitive
+challenge–response
+
+64) A user entering a pin code into a keypad and undergoing a fingerprint scan is an example of:
+Two-factor Authentication
+Single-factor Authentication
+Common Authentication
+Two-factor Authorization
+
+65) What authentication method is often implemented using a hardware token that produce a dynamic and changing password?
+multifactor authentication
+one-way hash
+one-time password
+Public Key Infrastructure (PKI)
+
+66) A trusted-platform module (TPM), when installed on the motherboard, allows for which one of the following?
+Full-Disk Encryption
+Biometric Verification
+User Authentication
+Full-Data Encryption
+
+67) Which algorithm is used to create a mathematically related key pair: a secret private key and a published public key?
+Pretty Good Privacy Algorithm
+Asymmetric Algorithm
+Symmetric Algorithm
+Kerberos Algorithm
+
+68) Which one of these passwords is an example of a complex password?
+Brian1994
+qwerty5$
+Red123
+J4me$1994!
+
+69) What setup should an administrator use for regularly testing the strength of user passwords?
+A standalone workstation on which the password database is copied and processed by the cracking program.
+A networked workstation so the live password database can be accessed by the cracking program.
+A networked workstation so the password database can easily be copied locally and processed by the cracking program.
+A standalone workstation so that the live password database can be accessed and processed by the cracking program.
+
+70) What type of security ensures only the intended recipient can read your e-mail? Your boss does not want anyone else to have the ability to read an e-mail except the intended recipient. What type of security is he concerned with?
+availability
+integrity
+confidentiality
+authentication
+
+71) On Post-Windows 2000 networks, what protocol is used for the data encryption during authorization between a client and server?
+Web Resource Authorization Protocol (WRAP)
+Host Credential Authorization Protocol (HCAP)
+Kerberos Protocol (CNAP)
+NT LAN Manager (NTLM)
+
+72) Secure Socket Layer (SSL) uses what type of encryption?
+Asymmetric
+Symmetric
+Ciphertext
+Hashing
+
+73) The majority of your business relies on your DSL line for Internet access. What is the most effective way to avoid losing Internet access?
+Install a second DSL Internet connection from a different carrier.
+Install a second DSL Internet connection from the same carrier.
+Purchase Broadband Access Cards for all your employees.
+Install a Cable Internet Connection.
+
+74) In order to prevent any damage to data caused by the failure of a storage device, which one of the following would you be most likely to use?
+Incremental Backup
+Data Warehouse
+Backup Site
+RAID
+
+75) What type of backup site has no computer systems in place, but does have the needed environmental controls?
+warm site
+cold site
+hot site
+disaster recovery site
+
+76) What is the process, policies, and procedures related to preparing for recovery or continuation of technology infrastructure critical to an organization after a natural or human-induced failure?
+Disaster Recovery
+Continuous Data Protection
+Remote Backup Service
+Business Continuity
+
+77) This tool analyzes the most important mission-critical business functions and determines risk of loss for business continuity.
+Business continuity plan (BCP)
+Business Impact Assessment (BIA)
+Vulnerability Assessment (VA)
+Penetration Test (PT)
+
+78) What is the term for determining in advance who will be authorized to take over in the event of loss of key employees?
+risk analysis study
+business continuity plan
+succession planning
+business take-over plan
+
+79) Determining the feasibility of the recovery process, verifying the compatibility of backup facilities, and ensuring the adequacy of procedures relating to the various teams working in the recovery process are examples of what?
+Disaster Recovery Plan Testing
+Disaster Recovery Plan Maintenance
+Disaster Recovery Plan Authentication
+Disaster Recovery Plan Training
+
+80) The Automated System Recovery (ASR) includes which two parts?
+System Restore and File Restore
+Startup Process and System Backup
+System Backup and System Restore 
+File Backup and File Restore
+
+81) What are the three types of redundant array of independent disks (RAID)?
+Capacity Resistant, Failure Resistant, and Disaster Tolerant
+Disaster Virtualization, Disaster Resistant, and Failure Tolerant
+Failure Resistant, Failure Tolerant, and Disaster Tolerant
+Volume Tolerant, Disaster Resistant, and Failure Tolerant
+
+82) When an information security breach occurs, the organization enters into an incident response process. What three groups of people are involved in the incident response?
+System Security Staff, Computer Users, and Law Enforcement Officers
+Computer Users, Employee Supervisors, and Network Managers
+Employee Supervisors, Network Managers, and System Security Staff
+Network Managers, System Security Staff, and Law Enforcement Officers
+
+83) This type of card is embedded with a thin strip that emits a low-frequency short-wave radio signal.
+Key Card
+Radio Frequency ID Card
+Smart Card
+Proximity Card
+
+84) The most reliable form of proof that a facility was accessed at a specific time by a specific individual is/are:
+proximity sensor
+video surveillance system
+door entry logs
+security logs
+
+85) Information privacy laws such as HIPAA require secure handling of privacy information. How should you properly dispose of secure documents?
+Redact the private information and throw documents away in the regular trash.
+Burn the documents.
+Use a cross-shredder and throw shredded documents away in the regular trash.
+Tear the documents into pieces and throw away in the regular trash.
+
+86) This security concept uses the approach of protecting something by hiding it.
+cryptography
+defense in depth
+security through obscurity
+layered security
+
+87) TEMPEST refers the study of compromising emanations. Compromising emanations are defined as unintentional intelligence-bearing signals, which, if intercepted and analyzed, may disclose the information transmitted, received, handled, or otherwise processed by any information-processing equipment. What is the best way to protect against compromising emanations?
+shield the computer equipment
+turn the computer equipment off when not in use
+limit use of wireless technology
+limit physical access to the computer equipment
+
+88) This block cipher was chosen by the National Institute of Standards and Technology (NIST) to replace DES as the U.S .encryption standard.
+International Data Encryption Algorithm (IDEA)
+Advanced Encryption Standard (AES)
+Message Digest version 5 (MD5)
+Standard Cryptography Methodology (SCM)
+
+89) What type of cryptography is used when both the sender and receiver share the same key?
+Public Key Cryptography
+Asymmetric Key Algorithms
+Private Key Cryptography
+Symmetric Key Algorithms
+
+90) What do you call an uninterruptable power supply (UPS) that stays inactive until a critical power event occurs?
+Inactive UPS
+Standby UPS
+Sleeper UPS
+Online UPS
+
+91) This is used for creating a unique digital fingerprint for a set of data:
+hash algorithm
+steganography
+symmetric encryption
+Kerberos
+
+92) What is an advantage of 3DES over traditional DES?
+uses public and private keys
+is simpler to implement
+uses three rounds of encryption effectively increasing the key length
+is more efficient for file level encryption
+
+93) Which are examples of computer forensic certifications?
+the Information Assurance Certification Review Board Certified Reverse Engineering Analyst and the International Association of Computer Investigative Specialists Certified Forensic Computer Examiner
+the International Society of Forensic Computer Examiners Certified Computer Examiner and the Information Assurance Certification Review Board Certified Data Recovery Professional
+the International Society of Forensic Computer Examiners Certified Computer Examiner and Information Assurance Certification Review Board Certified Computer Forensics Examiner
+the Information Assurance Certification Review Board Certified Reverse Engineering Analyst and the International Society of Forensic Computer Examiners Certified Computer Examiner
+
+94) During a forensic investigation, examiners use this to prevent file changes to the original hard drive.
+Write Blocker
+Hard Drive Integrity Monitor
+Forensic Toolkit
+Cyclical Redundancy Checker
+
+95) The process of collecting, preparing, reviewing, and producing electronically stored information (ESI) in the context of the legal process is known as:
+search and Seizure
+iDiscovery
+duty to preserve
+eDiscovery
+
+96) What provides detailed documentation of every action performed on a piece of evidence to ensure its integrity?
+evidence inventory
+message digest
+incident response plan
+chain of custody
+
+97) Which one of these is a step in the forensic security analysis process?
+Formatting a Hard Drive
+Changing a User's Password
+Security a Laptop with Cable Locks
+Reviewing a User's Internet History
+
+98) What are snapshots of key system settings and configurations at a specific moment in time on a Windows system?
+MRU files
+Slack space
+restore points
+System Recovery Point (SRP)
+
+99) This Public Law provides additional penalties for related activities in connection with access devices and computers.
+Computer Fraud and Abuse Act of 1986
+Privacy Act of 1974
+Comprehensive Crime Control Act of 1984
+Computer Security Act of 1987
+
+100) In the United States, what agency is responsible for setting computer standards for the federal government?
+National Institute of Standards and Technology (NIST)
+Department of Homestead Security (DHS)
+Department of Defense (DoD)
+Federal Security Agency (FSA)

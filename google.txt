@@ -1,0 +1,611 @@
+38)  Attackers have learned to capitalize and take advantage of the human factor in trust relationships. What type of attack uses chat, social media, and email to exploit trust relationships?
+1 point
+A) Replay Attack
+B) Online attack
+C) Cyber Attack
+D) Chat Attack
+15)  What is a collection of updates, fixes, or enhancements to a software program delivered in the form of a single installable bundle because installing is easier and less error-prone?
+1 point
+A) Service Kit
+B) Version Update
+C) Service Pack
+D) Security Update
+25)  In the TCP/IP stack, which layer is where common applications such as HTTP and SSH operate?
+0 points
+A) Internet
+B) Application
+C) Network
+D) Physical
+Password *
+13)  What Microsoft product checks your system for spyware?
+1 point
+A) Windows Group Policy
+B) Windows Defender
+C) Bitlocker
+D) Windows Update
+45)  What does Norton Ghost Software do?
+1 point
+A) is used by hackers to snoop on Internet surfers
+B) detects remote access Trojans
+C) makes a copy of an entire hard drive
+D) detects anonymous logins
+2)  Complex passwords defend against which type of attack?
+1 point
+A) Main-in-the-Middle
+B) Phishing
+C) Brute Force
+D) DDoS
+20)  Many legislative Acts affect computer security. Laws that lay out requirements that are more stringent for retaining and protecting employee and customer data could be on the horizon. Which Act regulates the availability and breadth of group health plans and certain individual health insurance policies?
+1 point
+A) The Health Information Privacy Act (HIPA)
+B) The Health Information Technology for Economic and Clinical Health Act (HITECH)
+C) The Public Health Services Act (PHSA)
+D) The Health Insurance Portability and Accountability Act (HIPAA)
+29)  FTP uses client-server architecture and uses separate control and data connections between the client and the server. What do system administrators do to secure a File Transfer Protocol server so only authorized users can access the server?
+1 point
+A) Disable Anonymous Authentication
+B) Redirect FTP to Another Port
+C) Initiate Access Control
+D) Allow Blind Authentication
+6)  Spoofing is the act of falsely identifying a packet’s IP address, MAC address, etc. Which of the below are three types of Spoofing?
+1 point
+A) ARP Poisoning, Web Spoofing, and DNS Spoofing
+B) Web Spoofing, DNS Spoofing, and Relay Spoofing
+C) Web Spoofing, ARP Poisoning, and Relay Spoofing
+D) DNS Spoofing, Relay Spoofing, and ARP Poisoning
+1)  This type of control is used to ensure that transactions are properly entered into the system once. Elements of this type of control may include counting data and time stamping it with the date it was entered or edited?
+1 point
+A) Output Controls
+B) Input Controls
+C) Input/Output Controls
+D) Processing Controls
+28)  The following protocol only transfers data in clear text.
+1 point
+A) FTP
+B) SCP
+C) SFTP
+D) SSH
+24)  Which protocol translates non-routable IP addresses into public or routable IP addresses?
+1 point
+A) DHCP
+B) subnetting
+C) NAT
+D) ICMP
+42)  This is any circumstance, event, or person with the potential to cause harm.
+1 point
+A) malware
+B) vulnerability
+C) threat
+D) exploit
+48)  What is it called when an intrusion detection system sends alerts regarding events that really have not taken place?
+1 point
+A) True Negatives
+B) True Positives
+C) False Negatives
+D) False Positives
+14)  Security testers often use this tool to bypass firewalls and other filtering devices by injecting modified IP packets?
+1 point
+A) ipconfig
+B) dig
+C) hping
+D) tcpdump
+16)  Which security aspect focuses with preventing the unauthorized modification of information?
+1 point
+A) confidentiality
+B) integrity
+C) repudiation
+D) authorization
+22)  The CIA triad is one of the core principles of information security. Which one of the following is part of the CIA triad?
+1 point
+A) confidentiality, information, and authentication
+B) configuration, integrity, and availability
+C) confidentiality, integrity, and availability
+D) configuration, integrity, and authentication
+40)  What is the best way for end users to prevent e-mail spam?
+1 point
+A) being cautious on where they post their e-mail address on the Internet
+B) shut down mail relaying on all internal and external servers
+C) keep e-mail clients updated with the latest version
+D) use anti-virus and spyware software and keep it updated
+32)  Why are e-mail hoaxes propagated and stay prevalent for years?
+1 point
+A) e-mail is professional looking and well-written
+B) e-mail isn't caught by filters
+C) story prompts the recipient to forward the e-mail to others
+D) contains a worm to auto-forward the e-mail
+34)  A person may want to do certain things in cyberspace anonymously. For example, you may want to contact a business without getting on their mailing list. One solution is a remailer. What is the purpose of a simple remailer?
+1 point
+A) Domain Name Service root servers are insecure
+B) re-mailer service is not turned off
+C) administrator account is disabled
+D) anonymous relays are not disabled
+19)  In computer security, a Demilitarized Zone (DMZ) is a physical or logical subnetwork that contains and exposes an organization's external-facing services to a larger and untrusted network, usually the Internet. The purpose of a DMZ is to add an additional layer of security to an organization's local area network (LAN). What type of network zones do administrators use when creating a DMZ?
+1 point
+A) Semi-Protected
+B) Fully-Protected
+C) Securely-Protected
+D) Decentralized
+23)  Which of the following certifications are recommended for network security professionals?
+1 point
+A) GIAC Certified Windows Security Administrator, Certified Wireless Security Professional, ISC2’s Certified Secure Software Lifecycle Professional
+B) Certified Wireless Security Professional, Certified Information System Auditor, Certified Information Security Manager
+C) ISC2’s Certified Secure Software Lifecycle Professional, Certified Information Security Manager, Certified Information System Auditor
+D) GIAC Certified Windows Security Administrator, Certified Information System Auditor, Certified Wireless Security Professional
+17)  In a Microsoft Windows environment, what allows administrators to configure a policy once and have it applied consistently across all computers in a Windows directory?
+1 point
+A) Windows Server Update Services (WSUS)
+B) Configuration Management (CM)
+C) Group Policy Object (GPO)
+D) Policy Configuration Installation (PCI)
+37)  This provides privacy, integrity, and authentication in e-mail.
+1 point
+A) IPSec
+B) SSL
+C) PGP
+D) SMTP
+50)  Which one of the following most accurately describes the role of Public Key Infrastructure (PKI)?
+1 point
+A) the protocol for authenticating identities across the Internet and provides integrity protection of data files
+B) an algorithm that creates and distributes public/private key pairs that is used for encrypting all data traversing the network
+C) a combination of encryption software, systems, and processes that allows the validation of parties and protects the confidentiality of data
+D) the technology for managing digital certificates across multiple domains
+27)  Often left open and insecure, these are defined by a number and should be closed by a Network Administrator if they are not needed:
+1 point
+A) Ports
+B) IP Addresses
+C) Windows Services
+D) DNS Server
+35)  What security technique creates a database of Internet addresses used by spammers or phishers and blocks email from those sources?
+1 point
+A) firewall
+B) blacklist
+C) junk mail
+D) mail relay
+3)  An organization's password policy is intended to:
+1 point
+A) force users into writing down long complex passwords
+B) help users create easily guessable passwords
+C) assist the user in creating a strong password
+D) allows users to choose any password
+10)  This type of virus spreads by infecting floppy or hard drive disk; the virus is loaded into memory and attempts to infect any and all floppy disks inserted into the computer.
+1 point
+A) Multipartite
+B) Macro
+C) Boot Sector
+D) File Infector
+What is your name? *
+8)  Word processing or spreadsheet documents may contain this, which could contain malicious code?
+1 point
+A) Virus
+B) Photo
+C) Attachment
+D) Macro
+46)  Why do organizations use intrusion detection systems (IDS) and intrusion protection systems (IPS)?
+1 point
+A) Identifying possible incidents, logging information about incidents, reporting attempts, stop an intrusion attempt
+B) Limit access between networks to prevent intrusions, identify outward-facing intrusion to stop them, signal an attack from inside the network
+C) Identifying possible incidents, logging information about incidents, reporting attempts, identifying problems with security policies
+D) Limit access between networks to prevent intrusions, logging information about incidents, reporting attempts
+11)  Which form of attack uses special programs that attempt all possible character combinations to determine passwords?
+1 point
+A) birthday attack
+B) password guessing
+C) brute-force attack
+D) dictionary attack
+4)  _____ are people who use and create software for enjoyment or to gain access to information illegally.
+1 point
+A) Lockers
+B) Hackers
+C) Contenders
+D) Surfers
+44)  This is the method of subjectively determining the impact and likelihood of an event that affects a project, program, or process?
+1 point
+A) vulnerability scanning
+B) quantitative risk management
+C) threat analysis
+D) qualitative risk management
+39)  Simple Mail Transfer Protocol (SMTP) is an internet standard for email transmission across the IP. SMTP uses port 25 when sending messages without any security protections. What port does SMTP use when secured by secure socket layer (SSL)?
+1 point
+A) 465
+B) 189
+C) 1123
+D) 587
+47)  The primary purpose of this type of system is to prevent unauthorized network access to local area networks and other information assets by wireless devices. These systems are typically implemented as an overlay to an existing Wireless LAN infrastructure, although they may be deployed standalone to enforce no-wireless policies within an organization.
+1 point
+A) Wireless Intrusion Prevention System (WIPS)
+B) Wireless Intrusion Detection System (WIDS)
+C) Wireless LAN Prevention System (WLANPS)
+D) Wireless Sensing Prevention System (WSPS)
+12)  What is a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard computer security practices?
+1 point
+A) Unauthorized Access
+B) Computer Violation
+C) Improper Usage
+D) Computer Incident
+18)  The secure socket layer protocol has several steps. What step allows for client and server authentication, mandatory access control and encryption algorithm negotiation, and selection of cryptographic keys?
+1 point
+A) SSL alert protocol
+B) SSL change cipher spec protocol
+C) SSL record protocol
+D) SSL handshake protocol
+5)  Which type of attack targets a specific program and overwhelms it with data?
+1 point
+A) Buffer Overflow
+B) Syn Flood
+C) Split Horizon Poison Reverse
+D) Session Hijack
+9)  Netbus, Back Office, and Zeus are examples of what?
+1 point
+A) Worms
+B) Logic Bombs
+C) Trojan Horses
+D) Hijacking
+21)  What type of security is call-back:
+1 point
+A) filter
+B) remote access
+C) encryption
+D) object
+31)  A student at a high school brings a flash drive from home with some files on it. Later that day in class the user's computer starts behaving irregularly. What would be the best course of action to prevent the problem?
+1 point
+A) disable USB on the computers
+B) ban Flash drivers from the school
+C) set Anti-Virus software to scan inserted medium and do not allow the students to run software as administrators
+D) ask them to use CDs instead
+43)  A risk assessment can be defined as:
+1 point
+A) the process of analyzing software for bugs
+B) the method of finding malware on an organization’s network
+C) the act of identifying potential threats to and vulnerabilities in an information system or business process
+D) a procedure for managing potential vulnerabilities inherent in computer information systems
+49)  The type of alarm that is triggered when there is no attack is known as a:
+1 point
+A) true positive
+B) false positive
+C) baseline alarm
+D) IDS alert
+41)  Which one of the following deals with the protection of data against unauthorized access?
+1 point
+A) authentication
+B) accountability
+C) confidentiality
+D) integrity
+26)  What is the best reason why Wi-Fi networks should have strong two-way authentication?
+1 point
+A) wireless is susceptible to a man-in-the-middle attack
+B) so each party knows exactly who is on the other end of the connection
+C) because international wireless standards require it
+D) as a method of detecting network attacks
+33)  If an SMTP server has been compromised to be the source of spam e-mails, what is the most likely cause?
+1 point
+A) Domain Name Service root servers are insecure
+B) re-mailer service is not turned off
+C) administrator account is disabled
+D) anonymous relays are not disabled
+7)  Why do buffer overflow attacks occur?
+1 point
+A) insufficient system memory available for running programs
+B) there was no quality or security checks in the software development process
+C) input data is not checked for appropriate length at time of input
+D) program buffers can only hold so much data
+36)  Which protocol is used to encrypt and digitally sign e-mail messages?
+1 point
+A) S/MIME
+B) PGP
+C) SMTP
+D) SSL
+30)  Which one of the following is a part of the TCP/IP standard?
+0 points
+A) all network devices have the same number
+B) all network devices have a unique number
+C) some network devices can have the same number
+D) only one network device should exist
+
+
+
+
+98)  What provides detailed documentation of every action performed on a piece of evidence to ensure its integrity?
+1 point
+A) chain of custody
+B) message digest
+C) incident response plan
+D) evidence inventory
+74)  Regarding Business Continuity Planning and Disaster Recovery Planning, which one of the following IT platforms typically provide some inherent level of redundancy?
+1 point
+A) mainframe systems
+B) distributed systems
+C) Web sites
+D) desktop computers
+75)  The best method for protecting sensitive data is called:
+1 point
+A) Stored on a flash drive
+B) Hashing
+C) Encryption
+D) Complex password
+57)  Which one the following allows a user to have a one-time password?
+1 point
+A) SSID
+B) Tokens
+C) Pin Code
+D) Key Fob
+64)  What setup should an administrator use for regularly testing the strength of user passwords?
+1 point
+A) A networked workstation so the password database can easily be copied locally and processed by the cracking program.
+B) A networked workstation so that the live password database can easily be accessed by the cracking program.
+C) A standalone workstation on which the password database is copied and processed by the cracking program.
+D) A password-cracking program is unethical
+therefore it should not be used.
+58)  This security model addresses data confidentiality in computer systems and is commonly seen in military systems.
+1 point
+A) Bell-LaPadula model
+B) Clark-Wilson model
+C) Data security model
+D) Biba model
+81)  Federal agencies report incidents to what organizations?
+1 point
+A) United States Government Forum of Incident Response and Security Teams
+B) Federal Computer Incident Response Center
+C) National Cybersecurity and Communications Integration Center
+D) United States Computer Emergency Readiness Teams
+63)  Which one of these passwords is an example of a complex password?
+1 point
+A) Brian1994
+B) J4me$1994!
+C) Red123
+D) qwerty5$
+72)  In this type of recovery plan test, the response team simulates the recovery without actually initiating recovery procedures.
+1 point
+A) business continuity study
+B) checklist review
+C) walk-through drill
+D) table top exercise
+95)  Which one of the following are examples of computer forensic certifications?
+1 point
+A) Information Assurance Certification Review Board, Certified Reverse Engineering Analyst, and the International Society of Forensic Computer Examiners Certified Computer Examiner
+B) International Society of Forensic Computer Examiners, Certified Computer Examiner, and the Information Assurance Certification Review Board Certified Data Recovery Professional
+C) Information Assurance Certification Review Board, Certified Reverse Engineering Analyst, and the International Association of Computer Investigative Specialists Certified Forensic Computer Examiner
+D) International Society of Forensic Computer Examiners, Certified Computer Examiner, and Information Assurance Certification Review Board Certified Computer Forensics Examiner
+56)  A user is trying to access an FTP server but gets a message saying invalid login credentials, what is the problem?
+1 point
+A) the user doesn't have access rights
+B) the user has the wrong FTP address
+C) the user has a Trojan horse
+D) the user has a virus
+52)  Which PKI element verifies the authenticity of certificates?
+1 point
+A) Digital Signature
+B) CA
+C) CRL
+D) Recovery Agent
+80)  An installation of Windows has become corrupt, what method will allow you to copy files to an external medium?
+1 point
+A) Scandisk
+B) Fix MBR
+C) Checkdsk
+D) Recovery Console
+55)  This type of authentication system requires the user to enter a code from a token along with a PIN.
+1 point
+A) token based authentication
+B) multi-process authentication
+C) single-factor authentication
+D) multifactor authentication
+65)  What authentication protocol was developed by MIT and utilizes a system of “tickets”?
+1 point
+A) SHA256
+B) TACACS
+C) MD4
+D) Kerberos
+54)  What is the purpose of a digital certificate?
+1 point
+A) lists critical information about a user or system
+B) certifies the security of a system
+C) binds a public key with a user's identity
+D) validates the identity of a user
+89)  This method is the art and science of hiding messages in pictures or files in such a way that no one, apart from the sender and intended recipient, suspects the existence of a message.
+1 point
+A) cryptography
+B) steganography
+C) public key infrastructure
+D) cryptanalysis
+83)  What type of physical attack uses a special key that is cut with all notches to the maximum length and is sharply struck to unlock a door?
+1 point
+Option 1
+A) mantrap
+B) bump key
+C) house key
+D) lockpicks
+70)  What term refers to a stand-by system that is manually added to a network if the primary server fails?
+1 point
+A) cloud computing
+B) redundant server
+C) virtual server
+D) fault tolerant server
+93)  One of the goals of Computer Forensics is to:
+1 point
+Option 1
+A) share data
+B) alter data
+C) destroy data
+D) preserve data
+71)  When mission critical systems are unavailable, organizations are at potential risk. To prevent interrupted information systems operation, which one of the following controls are typically included in an organization's disaster recovery plan?
+1 point
+A) backup and data transmission controls
+B) data input and downtime controls
+C) disaster recovery and data processing controls
+D) backup and downtime controls
+62)  This term is used to describe the requirement that different portions of a critical process must be performed by different people.
+1 point
+A) segregation of duties
+B) job rotation
+C) least privilege
+D) defense in depth
+84)  What is a TPM primarily used for?
+1 point
+A) flash storage
+B) authenticating to an SSID
+C) third party CA
+D) stores encryption keys
+Password *
+66)  When does the Challenge Handshake Authentication Protocol (CHAP) perform the handshake process?
+1 point
+A) only when establishing the initial connection
+B) only after the connection is established
+C) when establishing a connection and at any time after the connection is established
+D) only when disconnecting the session
+73)  What is the activity performed by an organization to ensure that critical business functions will be available to customers, suppliers, regulators, and other entities that must have access to those functions.
+1 point
+A) Business Continuity
+B) Disaster Recovery
+C) Continuous Data Protection
+D) Remote Backup Service
+77)  An incremental backup backs up which one of the following?
+1 point
+A) everything
+B) data that has changed
+C) data that has not changed
+D) only system files
+68)  An electrical fire that may occur in a computer data center is known as what type of fire?
+1 point
+A) Class D
+B) Class B
+C) Class E
+D) Class A
+69)  A natural disaster is a major adverse event resulting from natural processes of the Earth. Which one of the following is not an effect of a natural disaster on a computer?
+1 point
+A) static electricity
+B) power fluctuations
+C) water damage
+D) smoke damage to the hard drive
+87)  What is the primary role of a cryptologist?
+1 point
+A) Performing encryption and decryption
+B) Designing encryption algorithms
+C) Breaking encrypted text
+D) Analyzing algorithms and encrypted text
+92)  Steganography refers to:
+0 points
+A) device management
+B) L3 encryption
+C) hiding files within files
+D) digital signatures
+82)  What technology is used for surveillance?
+1 point
+A) TV Network Protocol
+B) Broadcast Television
+C) Closed Circuit Television
+D) Closed Circuit Digital Photography
+61)  Your boss does not want anyone else to have the ability to read an email except the intended recipient. What type of security ensures only the intended recipient can read your email?
+1 point
+A) Availability
+B) Integrity
+C) Authentication
+D) Confidentiality
+78)  What type of backup is to a magnetic disk, such as a RAID configuration, Storage Area Network (SAN), or large hard drive?
+1 point
+A) Disk to disk (D2D)
+B) Disk duplexing
+C) Disk to Raid (D2R)
+D) Disk to Tape (D2T)
+60)  What is known as a layered approach relying on two or more authentications to establish the identity of a user?
+1 point
+A) multiple token
+B) directed broadcast
+C) multicast
+D) strong authentication
+97)  When performing a computer forensics analysis, examiners must do everything possible to preserve the original media and data. Typically, this involves making a forensic image or forensic copy of the original media, and conducting our analysis on the copy versus the original. This work is an example of what?
+1 point
+A) Interpretation
+B) Identification
+C) Extraction
+D) Preservation
+86)  The following is a common threat to the physical security for an organization:
+1 point
+A) security cameras monitoring areas containing sensitive information
+B) network administrators with access to the server room
+C) employees using key cards to enter restricted areas
+D) cleaning crew staff with unsupervised access to all areas in a building
+53)  Which type of certificate authority (CA) has a self-signed certificate?
+1 point
+A) Root CA
+B) Public CA
+C) Bridge CA
+D) Intermediate CA
+76)  This entity is responsible for forming the disaster recovery team.
+1 point
+A) Senior Management Team
+B) Contingency Planning Management Team
+C) Disaster Planning Management Team
+D) Crisis Management Planning Team
+96)  Computer-Integrity crimes are crimes that account to offenses against the Confidentiality, Integrity or Availability of digital data and computer systems. Examples of these types of crime include:
+1 point
+A) Hacking, Illegal Interception, Misuse of Devices
+B) Hacking, Forgery, Fraud
+C) Hacking, Misuse of Devices, Forgery
+D) Fraud, Forgery, Illegal Interception
+What is your name? *
+51)  How does a message encrypted with the Public Key become decrypted with the receiver's appropriate Private Key?
+1 point
+A) private key contains a special function that is used to encrypt the message and which can only be reversed by the appropriate public key
+B) can only be decrypted with the public key
+C) encrypted message contains the functions for decryption that identifies the private key.
+D) one-way function with back door is applied for the encryption
+91)  Sharing a private key, encrypting a message with a private key, sending a message, decrypting a message with a private key is an example of what?
+1 point
+A) Public Key Encryption
+B) Pretty Good Privacy Encryption
+C) IPSec
+D) Private Key Encryption
+88)  Why is asymmetric encryption better than symmetric encryption?
+1 point
+A) Asymmetric encryption is faster and more efficient.
+B) Asymmetric encryption provides a higher level of security.
+C) Asymmetric encryption requires a key to be securely shared.
+D) Asymmetric encryption provides an easier exchange of encryption keys.
+90)  What is an advantage of Triple-DES over traditional DES?
+1 point
+A) provide three times the encryption strength
+B) uses asymmetric keys
+C) is simpler to implement
+D) uses three keys with multiple encryption
+79)  Anti-virus software detects an infection on the hard drive but fails to remove it. After research, you decide that best course of action is to reboot the system into safe mode and proceed with removal. How do you get into safe mode?
+1 point
+A) type Safe Mode in the Run Dialog box
+B) hold down the power key for 10 seconds
+C) press F8 upon system startup
+D) use the Windows Scandisk utility
+85)  This physical security measure reduces the likelihood for tailgating into a secure facility.
+1 point
+A) passcodes on doors
+B) access control badges
+C) closed-circuit television
+D) mantraps
+99)  Practitioners use this to fully identify and assess risk factors, balance the expected costs (damages) of incidents with the cost of defenses.
+1 point
+A) Risk Management
+B) Risk Tolerance
+C) Cost/Benefit Analysis
+D) Risk Analysis
+59)  Authentication is the process of determining whether someone or something is, in fact, who or what it is supposed to be. What type of authentication methodology uses a person's physical characteristic for identification?
+1 point
+A) Voice Analysis
+B) Biometrics
+C) Behaviometrics
+D) Facial Recognition
+100)  What is the purpose of the Computer Fraud and Abuse Act of 1986?
+0 points
+A) Establishes a code of fair information practice that governs the collection, maintenance, use, and dissemination of personally identifiable information about individuals that is maintained in systems of records by federal agencies.
+B) To improve the security and privacy of sensitive information in federal computer systems and to establish a minimum acceptable security practices for such systems. It requires the creation of computer security plans and the appropriate training of system users or owners where the systems house sensitive information.
+C) Enacted as an amendment to existing computer fraud law and written to clarify and increase the scope, while in theory, limiting federal jurisdiction to cases where computers of the federal government or certain financial institutions are involved or where the crime itself is interstate in nature.
+D) Served as the first comprehensive revision of the US criminal code since the 1900s and extended the United States Secret Service's jurisdiction over credit card fraud and computer fraud.
+94)  This type of data is stored on the local hard drive and is present even if the computer is turned off.
+1 point
+A) persistent
+B) volatile
+C) clipboard contents
+D) data in memory
+67)  Which one of the following reduces the chances of a single point of failure if a server fails?
+1 point
+A) Cloud Computing
+B) RAID
+C) Clustering
+D) Backups
